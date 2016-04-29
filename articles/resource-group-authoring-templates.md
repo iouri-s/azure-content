@@ -383,7 +383,7 @@ To iterate a specified number of times when creating a type of resource, see [Cr
 You may need to use resources that exist within a different resource group. This is common when working with storage accounts or virtual networks that are shared across multiple resource groups. For more information, see the [resourceId function](../resource-group-template-functions#resourceid).
 
 ## Next Steps
-- To view complate templates for many different types of solutions, see the [Azure Quickstart Templates](https://azure.microsoft.com/documentation/templates/).
+- To view complete templates for many different types of solutions, see the [Azure Quickstart Templates](https://azure.microsoft.com/documentation/templates/).
 - For details about the functions you can use from within a template, see [Azure Resource Manager Template Functions](resource-group-template-functions.md)
 - To see how to deploy the template you have created, see [Deploy an application with Azure Resource Manager Template](resource-group-template-deploy.md)
 - For an in-depth example of deploying an application, see [Provision and deploy microservices predictably in Azure](app-service-web/app-service-deploy-complex-application-predictably.md)
